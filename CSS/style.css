@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 10px;
+    background-color: whitesmoke;
+}
+header{
+    position: relative;
+    padding: 10px;
+
+}
+.logo{
+    float: left;
+}
+h2{
+    
+    left: 55px;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+
+}
+h3{
+    left: 55px;
+    font-family:serif;
+    font-size: 25px;
+    padding: 10px;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+h5{
+    color: rgb(151, 150, 150);
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.pri{
+    margin: auto;
+    float: right;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+div{
+    position: absolute;
+    right: 50px;
+    bottom: 70px;
+}
+hr {
+    margin: 20px;
+}
+main{
+    padding: 10px;
+}
+#hero{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+p{
+    text-align: justify;
+    color: rgb(121, 122, 131);
+    font-size: 20px;
+    font-family: 'Crimson Text', serif;
+    margin: 20px;
+}
+form{
+background-image:url('../IMG/list-bg.png');
+height: 200px;
+margin-left: 20px;
+font-family:'Times New Roman', Times, serif;
+font-weight: 20;
+font-size: 19px;
+}
+#first{
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+#second{
+    float: right;
+    width: 45%;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#lastp{
+    margin-left:70px;
+    margin-top: 0ch;
+}
+.spen{
+    margin: auto;
+    text-align: center;
+    color: rgb(150, 148, 145);
+}
+button{
+    background-color: brown;
+    size: 20px; 
+    color: white; 
+ float: right;
+    height: 40px;
+    width: 150px;
+     margin-bottom: 20px;
+}
+footer{
+    margin-top: 20px;
+    padding: 10px;
+}
+.hrr{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
